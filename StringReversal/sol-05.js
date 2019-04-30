@@ -8,5 +8,5 @@ function reverseString(str) {
     return revString; 
 }
 
-output = reverseString('hello'); 
+output = reverseString('now'); 
 console.log(output);

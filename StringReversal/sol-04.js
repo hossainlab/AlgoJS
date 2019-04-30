@@ -10,5 +10,5 @@ function reverseString(str) {
     return revString; 
 }
 
-output = reverseString('hello'); 
+output = reverseString('world'); 
 console.log(output);
