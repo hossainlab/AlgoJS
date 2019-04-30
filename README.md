@@ -1,4 +1,4 @@
-### JavaScript Problems and Solutions For  Interview 
+<h2 align="center">JavaScript Problems and Solutions For  Interview</h2>
 
 ### `StringReversal` 
 
